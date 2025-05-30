@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+faiss-cpu
+beautifulsoup4
+requests
+pydantic
+whisper
+pyttsx3
+coqui-tts
+langgraph
+crewai
+yfinance
+python-dotenv
+pandas
